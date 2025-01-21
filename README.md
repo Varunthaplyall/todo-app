@@ -43,7 +43,7 @@ A feature-rich Task Manager application built using React, Redux, Material-UI, a
 
 ### Live Preview
 
-- [Task Manager Demo](#)
+- [Task Manager Demo](https://todo-app-seven-dusky-37.vercel.app/login)
 
 ---
 
@@ -61,7 +61,8 @@ Ensure you have the following installed:
 ### **Installation**
 
 1. **Clone the Repository**
+
    ```bash
-   git clone https://github.com/your-username/task-manager.git
-   cd task-manager
+   git clone https://github.com/Varunthaplyall/todo-app.git
+
    ```
