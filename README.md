@@ -43,7 +43,7 @@ A feature-rich Task Manager application built using React, Redux, Material-UI, a
 
 ### Live Preview
 
-- [Task Manager Demo](https://todo-app-seven-dusky-37.vercel.app/login)
+- [Task Manager Demo](https://todo-l4v7pqq84-varunthaplyalls-projects.vercel.app/)
 
 ---
 
